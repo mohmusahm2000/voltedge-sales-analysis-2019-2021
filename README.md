@@ -30,7 +30,7 @@ The company's database structure consists of five main tables with a fact-dim ar
 ### Overview of Findings
 Total revenue across 2019-2021 reached **$25.8M**, characterized by extreme volatility: a massive peak in December 2019 followed by a sharp **90% drop** between February and April 2020. While revenue stabilized later, sales remained heavily concentrated in the US market. A significant insight is that despite having physical stores in each country, the Online platform remains the 2nd primary driver for specific high-value products after US market.  
 
-The following interactive dashboard can be found [here](/voltedge_analysis_excel.xlsm).  
+The following interactive Excel dashboard can be found [here](/voltedge_analysis_excel.xlsm).  
 
 ![Dashboard](assets/excel_dashboard.png)  
 
